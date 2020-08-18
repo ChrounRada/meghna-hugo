@@ -5,8 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: KOOMPI ACADEMY Edu Cambodia
-  content: koompi is a computer that are building by khmer generator and using linux
-    version
+  content: koompi is a computer that are builed by khmer generator and using linux
+    version now we are developing to koompi E11 for engineering sector that are allowed
+    all designer to design it.
   button:
     enable: true
     label: Explore Us
