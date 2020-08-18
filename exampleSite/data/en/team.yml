@@ -35,12 +35,13 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Michael Jonson
+  - name: Nhem Panha
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Is an American media magnate, internet entrepreneur, and philanthropist.
+      He is known for co-founding Facebook, Inc. and serves as its chairman, chief
+      executive officer, and controlling shareholder.
     social:
     - icon: ti-facebook
       link: "#"
@@ -50,12 +51,13 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Mo. Kha. Alamgir
+  - name: Sam Sophanna
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
     designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Is an American media magnate, internet entrepreneur, and philanthropist.
+      He is known for co-founding Facebook, Inc. and serves as its chairman, chief
+      executive officer, and controlling shareholder.
     social:
     - icon: ti-facebook
       link: "#"
