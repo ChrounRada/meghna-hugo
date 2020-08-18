@@ -3,7 +3,7 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Abul Mal Muhit
+  - name: Chroun Rada
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: CEO/Founder
@@ -12,7 +12,7 @@ team:
       executive officer, and controlling shareholder."
     social:
     - icon: ti-facebook
-      link: "#"
+      link: https://web.facebook.com/rada.chroun.31
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
