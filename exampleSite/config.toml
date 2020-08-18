@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "Rada-hugo"
-title = "rada-test1"
+title = "Koompi academy"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
