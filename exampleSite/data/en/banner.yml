@@ -5,8 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: KOOMPI ACADEMY Edu Cambodia
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: koompi is a computer that are building by khmer generator and using linux
+    version
   button:
     enable: true
     label: Explore Us
