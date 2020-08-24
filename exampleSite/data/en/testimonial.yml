@@ -1,26 +1,28 @@
-################################# Testimonial #########################
+---
 testimonial:
-  enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Sambath Rinak
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: |-
+      La France est un pays attachant avec de magnifiques monuments et une savoureuse gastronomie. C'est pourquoi parler français lors de ses voyages ou pour nouer des relations professionnelles demeure un vrai plus !
+
+      Nous avons sélectionné avec des professeurs expérimentés de français des textes faciles à lire et amusants. A la fin des textes, un exercice sous forme de QCM permet de valider ses acquis. Il est à noter que l'édition gratuite des textes sous forme de PDF est un vrai plus. Désormais la langue de Molière n'aura plus de secret pour vous.
+  - name: Mark Dinn
+    image: images/client/client-2.jpg
+    image_webp: images/client/client-2.webp
+    date: Dec 26, 2018
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
+      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: Lemos Kail
+    image: images/client/client-1.jpg
+    image_webp: images/client/client-1.webp
+    date: Dec 26, 2018
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
+      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
+      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
