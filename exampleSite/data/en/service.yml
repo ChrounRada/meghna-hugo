@@ -1,34 +1,35 @@
-################################# Service #################################
+---
 service:
-  enable : true
-  title : Our Services
-  service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  enable: true
+  title: Our Services
+  service_item:
+  - name: WordPress Theme
+    icon: ti-world
+    content: Every time you open a pull request, or push new changes to a branch,
+      Netlify automatically builds a preview with a unique URL. Like a staging environment
+      for every PR or branch, previews are perfect for testing and collaboration.
+  - name: Responsive Design
+    icon: ti-layout
+    content: Every time you open a pull request, or push new changes to a branch,
+      Netlify automatically builds a preview with a unique URL. Like a staging environment
+      for every PR or branch, previews are perfect for testing and collaboration.
+  - name: Media &amp; Advertisement
+    icon: ti-blackboard
+    content: Every time you open a pull request, or push new changes to a branch,
+      Netlify automatically builds a preview with a unique URL. Like a staging environment
+      for every PR or branch, previews are perfect for testing and collaboration.
+  - name: Graphic Design
+    icon: ti-palette
+    content: Every time you open a pull request, or push new changes to a branch,
+      Netlify automatically builds a preview with a unique URL. Like a staging environment
+      for every PR or branch, previews are perfect for testing and collaboration.
+  - name: Apps Development
+    icon: ti-package
+    content: Every time you open a pull request, or push new changes to a branch,
+      Netlify automatically builds a preview with a unique URL. Like a staging environment
+      for every PR or branch, previews are perfect for testing and collaboration.
+  - name: Networking
+    icon: ti-pulse
+    content: Every time you open a pull request, or push new changes to a branch,
+      Netlify automatically builds a preview with a unique URL. Like a staging environment
+      for every PR or branch, previews are perfect for testing and collaboration.
