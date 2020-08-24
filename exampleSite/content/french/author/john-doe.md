@@ -1,7 +1,7 @@
 ---
-title: John Doe
+title: Sam Sophanna
 image: ''
-email: email2@example.org
+email: samsophanna@gmail.com
 social:
 - icon: ti-facebook
   link: "#"
