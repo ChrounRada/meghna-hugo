@@ -8,7 +8,7 @@ social:
 - icon: ti-twitter-alt
   link: https://twitter.com/home
 - icon: ti-github
-  link: "#"
+  link: https://github.com/ChrounRada
 
 ---
 Is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder.
