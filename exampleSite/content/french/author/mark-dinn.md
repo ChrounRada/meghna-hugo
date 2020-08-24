@@ -1,7 +1,7 @@
 ---
-title: Mark Dinn
+title: Sambath Rinak
 image: ''
-email: email2@example.org
+email: sambathrinak@gmail.com
 social:
 - icon: ti-facebook
   link: "#"
